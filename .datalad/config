@@ -1,2 +1,7 @@
 [datalad "dataset"]
 	id = b5d0e7d7-719a-4c14-ba34-3187862f8584
+[remote "osf-storage"]
+	annex-externaltype = osf
+	annex-external-url = osf://k9axq
+	annex-external-project = k9axq
+	annex-external-host = osf.io
