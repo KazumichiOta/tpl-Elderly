@@ -4,3 +4,8 @@ sync_osf_all.py
 osf_urls.tsv
 sync_osf_all.py
 .DS_Store
+tpl-Elderly/
+osfstorage/
+MD5E-*.nii.gz
+MD5E-*.nii.gz
+osfstorage/
